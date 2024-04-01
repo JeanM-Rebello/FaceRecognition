@@ -6,4 +6,4 @@ Code made using the OpenCV library to study and test the face recognition functi
 
 --------------------
 
-[Instructions for use]()
+[Instructions for use](https://github.com/JeanM-Rebello/FaceRecognition/blob/main/doc/instruction.md)
